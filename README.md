@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<img src="perfil foto.jpg"
+<img src="perfil foto.jpg" alt="italian Trulli">
 <lu>
 <li>19 Anos</li>
 <li>Endereço: Suzano, Palmeiras, Ana Rosa, Rua Marte N°2</li>
